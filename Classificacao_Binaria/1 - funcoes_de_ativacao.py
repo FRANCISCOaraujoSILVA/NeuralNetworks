@@ -1,5 +1,5 @@
 import numpy as np
-# site: keras.io, para aprender mais funções de ativação
+# site: keras.io, para aprender mais sobre outras funções de ativação
 
 
 def stepFunction(soma):  # transfer function
